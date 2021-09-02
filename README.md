@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/arakaki-code">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arakaki-code&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arakaki-code&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakaki-code&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
@@ -19,7 +19,6 @@
   <img align="right" alt="May-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
    
    
-   ##
    ##
   
 </div>
