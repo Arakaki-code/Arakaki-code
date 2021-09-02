@@ -29,4 +29,4 @@
 ##
 </div>
   
-  ![Snake animation](https://github.com/arakaki-code/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/arakaki-code/arakaki-code/blob/output/github-contribution-grid-snake.svg)
