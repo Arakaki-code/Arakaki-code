@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Mayuri 👋
 - 🎓    Descomplica Faculdade - Análise e Desenvolvimento de Sistema
 - 🔭 Hoje eu estudo Desenvolvimento web - front-end
-- 🌱 atualmente aprendendo Next.js e React
 - 💬 contate-me no e-mail: arakaki2212@gmail.com
 - 😄 Pronomes: Ela/Dela
 
