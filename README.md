@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Mayuri 👋
-- 🎓    Descomplica Faculdade - Análise e Desenvolvimento de Sistema
-- 🔭 Estudando Desenvolvimento web - front-end
+- 🎓 Análise e Desenvolvimento de Sistema - Descomplica Faculdade
+- 🔭 Especializada em Desenvolvimento web - front-end
 - 💬 contate-me no e-mail: arakaki2212@gmail.com
 - 😄 Pronomes: Ela/Dela
 
